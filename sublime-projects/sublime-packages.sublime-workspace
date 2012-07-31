@@ -1,0 +1,863 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dr",
+				"dropTetrimino"
+			],
+			[
+				"bo",
+				"board"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"T",
+				"Tetrimino"
+			],
+			[
+				"tile",
+				"tileSize"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"in",
+				"instuctions"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"blo",
+				"blocks"
+			],
+			[
+				"ad",
+				"adjustment"
+			],
+			[
+				"rem",
+				"removal"
+			],
+			[
+				"li",
+				"line"
+			],
+			[
+				"depth",
+				"depths"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"d",
+				"depth"
+			],
+			[
+				"de",
+				"depths"
+			],
+			[
+				"dep",
+				"depth"
+			],
+			[
+				"last",
+				"lastDepths"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"che",
+				"checkHeight"
+			],
+			[
+				"t",
+				"tetriminoes"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"lin",
+				"lineCount"
+			],
+			[
+				"x",
+				"xCoord"
+			],
+			[
+				"hit",
+				"hitCheck"
+			],
+			[
+				"y",
+				"yCoord"
+			],
+			[
+				"iS",
+				"iShapeX"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"is",
+				"iShapeX"
+			],
+			[
+				"tetrim",
+				"tetrimino"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"te",
+				"tetrimino"
+			],
+			[
+				"tet",
+				"tetrimino"
+			],
+			[
+				"Tet",
+				"TetrisBoard"
+			],
+			[
+				"pu",
+				"push"
+			],
+			[
+				"o",
+				"orientation"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"his",
+				"history"
+			],
+			[
+				"fk_",
+				"fk_issue"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"tabl",
+				"table_array"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"ar",
+				"array_push"
+			],
+			[
+				"fk",
+				"fk_person"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/markle976/Library/Application Support/Sublime Text 2/Packages/JavaScript/JavaScript.sublime-completions",
+			"settings":
+			{
+				"buffer_size": 136,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/markle976/Library/Application Support/Sublime Text 2/Packages/JavaScript/Completion Rules.tmPreferences",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 225.0,
+		"selected_items":
+		[
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pee",
+				"SublimePeek: Get Help for Function"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/markle976/Sites/cloud9/node_modules/ace/lib/ace/theme/idle_fingers.css",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/idleFingers.tmTheme.chback",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/idleFingers.tmTheme",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/project/location.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/issue/issue_detail.php",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/Railscasts.tmTheme",
+		"/Users/markle976/Sites/Torus/torus.html",
+		"/Users/markle976/Sites/Torus/js/Rig.js",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/User/CSS.sublime-settings",
+		"/Users/markle976/Sites/Torus/retris.html",
+		"/Users/markle976/Sites/Torus/js/Board.js",
+		"/Users/markle976/Sites/Torus/js/Big.js",
+		"/Users/markle976/Sites/Torus/js/jquery-1.7.min.js",
+		"/Users/markle976/Sites/Torus/js/pubsub.js",
+		"/Users/markle976/Sites/Torus/tetris.html",
+		"/Users/markle976/Sites/TQ/trunk/application/models/watch_model.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/issue/_view.php",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/project/activity.php",
+		"/Users/markle976/Sites/TQ/trunk/application/models/issue_model.php",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/markle976/Sites/TQ/trunk/system/core/Input.php",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/project/share.php",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/project/person.php",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/project/issue.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/issue/_edit.php",
+		"/Users/markle976/Sites/TQ/trunk/application/models/discipline_model.php",
+		"/Users/markle976/Sites/TQ/trunk/application/core/MY_Model.php",
+		"/Users/markle976/Sites/TQ/trunk/js/global.js",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/_share_modal.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/issue/_add_modal.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/profile/_edit.php",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/profile.php",
+		"/Users/markle976/Sites/TQ/trunk/application/config/config.php",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/markle976/Sites/TQ/trunk/application/",
+			"/Users/markle976/Sites/TQ/trunk/application/controllers",
+			"/Users/markle976/Sites/TQ/trunk/application/views",
+			"/Users/markle976/Sites/TQ/trunk/application/controllers",
+			"/Users/markle976/Sites/TQ/trunk/application"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"context",
+			"tileImage",
+			"tileSize",
+			"480",
+			"boardWidth",
+			"options",
+			"boardContext",
+			"checkHeight",
+			"480",
+			"boardWidth",
+			"$",
+			"console",
+			"cons",
+			"_",
+			"boardTetrimino",
+			"check",
+			"render",
+			"tetrimino",
+			"rend",
+			"cons",
+			"history_rollup_by_time",
+			"json",
+			"_post",
+			"_POST",
+			"_sanitize_globals\n",
+			"_sanitize_globals\n_sanitize_globals",
+			"_clean_input_data",
+			"_fetch_from_array",
+			"get_wa",
+			"dropdown",
+			"		{",
+			"status",
+			"assi",
+			"dis",
+			"update_record",
+			"watch",
+			"serial",
+			"Valid",
+			"is_valid",
+			"isvalid",
+			"serialize",
+			"details",
+			"/details",
+			"details",
+			"fixed-alert",
+			"					}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ctx",
+			"deadTetrimino",
+			"this"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/markle976/Library/Application Support/Sublime Text 2/Packages/JavaScript/JavaScript.sublime-completions",
+					"settings":
+					{
+						"buffer_size": 136,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/markle976/Library/Application Support/Sublime Text 2/Packages/JavaScript/Completion Rules.tmPreferences",
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": true,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1.0,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 233.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"tetris.html"
+			],
+			[
+				"ret",
+				"retris.html"
+			],
+			[
+				"js/",
+				"js/jquery-1.7.min.js"
+			],
+			[
+				"pu",
+				"js/pubsub.js"
+			],
+			[
+				"r",
+				"retris.html"
+			],
+			[
+				"big",
+				"js/Big.js"
+			],
+			[
+				"rig",
+				"js/Rig.js"
+			],
+			[
+				"to",
+				"torus.html"
+			],
+			[
+				"tet",
+				"tetris.html"
+			],
+			[
+				"bi",
+				"js/Big.js"
+			],
+			[
+				"_view",
+				"application/views/project/issue/_view.php"
+			],
+			[
+				"inpu",
+				"system/core/Input.php"
+			],
+			[
+				"shar",
+				"application/controllers/project/share.php"
+			],
+			[
+				"issmo",
+				"application/models/issue_model.php"
+			],
+			[
+				"watmo",
+				"application/models/watch_model.php"
+			],
+			[
+				"hismo",
+				"application/models/history_model.php"
+			],
+			[
+				"issview",
+				"application/views/project/issue/_view.php"
+			],
+			[
+				"act",
+				"application/controllers/project/activity.php"
+			],
+			[
+				"his",
+				"application/libraries/History_messages.php"
+			],
+			[
+				"issdet",
+				"application/views/project/issue/issue_detail.php"
+			],
+			[
+				"iss",
+				"application/controllers/project/issue.php"
+			],
+			[
+				"glo",
+				"js/global.js"
+			],
+			[
+				"my_mo",
+				"application/core/MY_Model.php"
+			],
+			[
+				"disc",
+				"application/models/discipline_model.php"
+			],
+			[
+				"share",
+				"application/controllers/project/share.php"
+			],
+			[
+				"pro/_ed",
+				"application/views/profile/_edit.php"
+			],
+			[
+				"issde",
+				"application/views/project/issue/issue_detail.php"
+			],
+			[
+				"addmo",
+				"application/views/project/issue/_add_modal.php"
+			],
+			[
+				"glob",
+				"js/global.js"
+			],
+			[
+				"iss/edi",
+				"application/views/project/issue/_edit.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/markle976/Sites/TQ/trunk/tq.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true
+}

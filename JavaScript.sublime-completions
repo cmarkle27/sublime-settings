@@ -1,0 +1,8 @@
+{
+	"scope": "source.js - variable.other.js",
+
+	"completions":
+	[
+		{ "trigger": "console", "contents": "console.log(${1:string})" }
+	]
+}

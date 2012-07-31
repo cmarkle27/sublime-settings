@@ -1,0 +1,1243 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"he",
+				"helper"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"ur",
+				"urlencode"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"a",
+				"array	$… = array (…)"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"detail",
+				"detail-fields"
+			],
+			[
+				"get_pa",
+				"get_paging_data"
+			],
+			[
+				"is_i",
+				"is_int"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"bo",
+				"border	border-right-color: color"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"ra",
+				"rawFilters"
+			],
+			[
+				"win",
+				"windowObject"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"da",
+				"database"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"file_",
+				"file_name"
+			],
+			[
+				"def",
+				"defaults"
+			],
+			[
+				"ar",
+				"array_merge"
+			],
+			[
+				"ba",
+				"background	background-image: url"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"filter",
+				"filters"
+			],
+			[
+				"prin",
+				"prince_path"
+			],
+			[
+				"rea",
+				"readable_filters"
+			],
+			[
+				"dash",
+				"dashboard-page"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"iss",
+				"issue"
+			],
+			[
+				"access",
+				"access_denied"
+			],
+			[
+				"array_k",
+				"array_key_exists"
+			],
+			[
+				"ret",
+				"result_array"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"rec",
+				"records"
+			],
+			[
+				"issue",
+				"issuecomment"
+			],
+			[
+				"reo",
+				"record"
+			],
+			[
+				"arr",
+				"array_push"
+			],
+			[
+				"his",
+				"History_messages"
+			],
+			[
+				"name",
+				"name_first"
+			],
+			[
+				"get__it",
+				"get_item_history"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"fk_",
+				"fk_issue"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"tabl",
+				"table_array"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"fk",
+				"fk_person"
+			],
+			[
+				"con",
+				"console"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/controllers/project/issue.php",
+			"settings":
+			{
+				"buffer_size": 29297,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/pdf/issue/_item.php",
+			"settings":
+			{
+				"buffer_size": 4283,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/php.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"lin",
+				"Tag: Lint Selection or Document"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ri",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"peek",
+				"SublimePeek: Get Help for Function"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"sub",
+				"SublimePeek: Get Help for Function"
+			],
+			[
+				"Pman: ",
+				"Pman: Consult the manual for selection"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"got",
+				"Goto Documentation"
+			],
+			[
+				"file",
+				"Open File Navigator"
+			],
+			[
+				"intel",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"inte",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"go",
+				"Goto Documentation"
+			],
+			[
+				"pee",
+				"SublimePeek: Get Help for Function"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 539.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/DevDocuments/chris/tq/css/pdf.css",
+		"/Volumes/DevDocuments/chris/tq/application/core/MY_Controller.php",
+		"/Volumes/DevDocuments/chris/tq/system/helpers/file_helper.php",
+		"/Volumes/DevDocuments/chris/tq/application/helpers/MY_file_helper.php",
+		"/Volumes/DevDocuments/chris/tq/application/views/project/issue/_list.php",
+		"/Volumes/DevDocuments/chris/tq/application/views/project/issue/issue_list.php",
+		"/Volumes/DevDocuments/chris/tq/application/views/pdf/issue/_item.php",
+		"/Volumes/DevDocuments/chris/tq/js/jquery.filter-link.js",
+		"/Volumes/DevDocuments/chris/tq/application/models/issue_model.php",
+		"/Volumes/DevDocuments/chris/tq/tests/models/IssueModelTest.php",
+		"/Volumes/DevDocuments/chris/tq/application/models/file_model.php",
+		"/Volumes/DevDocuments/chris/tq/application/controllers/project/issue.php",
+		"/Volumes/DevDocuments/chris/tq/application/views/pdf/issue/detail.php",
+		"/Volumes/DevDocuments/chris/tq/js/global.js",
+		"/Volumes/DevDocuments/chris/tq/application/views/project/issue/issue_detail.php",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/project/issue.php",
+		"/Users/markle976/Desktop/xpdf.html",
+		"/Volumes/DevDocuments/chris/tq/application/views/pdf/pdf.php",
+		"/Volumes/DevDocuments/chris/tq/application/config/config.php",
+		"/Volumes/DevDocuments/chris/tq/application/controllers/cli/file.php",
+		"/Volumes/DevDocuments/chris/tq/application/controllers/project/file.php",
+		"/Volumes/DevDocuments/chris/tq/application/config/storage.php",
+		"/Volumes/DevDocuments/chris/tq/application/libraries/Storage.php",
+		"/Volumes/DevDocuments/chris/tq/application/controllers/cli/pdf.php",
+		"/Volumes/DevDocuments/chris/tq/application/views/project/pdf_view.php",
+		"/Users/markle976/Sites/TQ/trunk/application/config/local/config.php",
+		"/Volumes/DevDocuments/chris/tq/application/controllers/project/pdf.php",
+		"/Volumes/DevDocuments/chris/tq/application/core/Project_Controller.php",
+		"/Volumes/DevDocuments/chris/tq/dev-tq",
+		"/Users/markle976/Sites/TQ/trunk/css/pdf.css",
+		"/Users/markle976/Sites/TQ/trunk/tests/sql-dumps/7.sql",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/cli/pdf.php",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/project/pdf.php",
+		"/Users/markle976/Sites/TQ/trunk/application/config/storage.php",
+		"/Users/markle976/Sites/TQ/trunk/application/config/config.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/pdf/issue/_list.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/pdf/issue/detail.php",
+		"/Users/markle976/Sites/TQ/trunk/application/core/MY_Controller.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/pdf/pdf.php",
+		"/Users/markle976/Sites/TQ/trunk/application/libraries/prince.php",
+		"/Users/markle976/Sites/TQ/trunk/application/core/MY_Model.php",
+		"/Users/markle976/Sites/TQ/trunk/application/models/issue_model.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/issue/_view.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/issue/issue_detail.php",
+		"/Users/markle976/Sites/TQ/trunk/js/global.js",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/issue/_comments.php",
+		"/Users/markle976/Sites/TQ/trunk/application/helpers/paging_helper.php",
+		"/Users/markle976/Sites/TQ/trunk/css/styles.less",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/fieldobservation/fieldobservation_detail.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/_headers.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/issue/issue_list.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/issue/_list.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/issue/_detail_paging.php",
+		"/Users/markle976/Sites/TQ/trunk/application/helpers/error_helper.php",
+		"/Users/markle976/Sites/TQ/trunk/application/libraries/Storage.php",
+		"/Users/markle976/Sites/TQ/trunk/application/libraries/storage_drivers/amazon/sdk.class.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/fieldobservation/fieldobservation_list.php",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/markle976/Sites/CM.com/application/views/Home_template.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/checklist/checklist_list.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/checklist/checklist_detail.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/profile/profile_main.php",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/start.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/dashboard.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/building.php",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/project/fieldobservation.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/_top.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/pdf/issue/_item.php",
+		"/Users/markle976/Sites/TQ/trunk/tests/models/WatchModelTest.php",
+		"/Users/markle976/Sites/TQ/trunk/application/migrations/data/fieldobservation.sql",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/cli/migrate.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/pdf/loader.php",
+		"/Users/markle976/Sites/TQ/trunk/application/config/email.php",
+		"/Users/markle976/Sites/FM/trunk/js/base64.js",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/fieldobservation/_list.php",
+		"/Users/markle976/Sites/TQ/trunk/tests/includes/DBSetupBeforeClass.php",
+		"/Users/markle976/Sites/TQ/trunk/tests/includes/DBSetup.php",
+		"/Users/markle976/Sites/FM/trunk/application/views/pdf/list_style.php",
+		"/Users/markle976/Sites/FM/trunk/application/views/pdf/detail_style.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/_issue_list_item.php",
+		"/Users/markle976/Sites/FM/trunk/application/controllers/equipment.php",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/cli/statistics.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/issue/_item.php",
+		"/Users/markle976/Downloads/prince-8.0-macosx/README.TXT",
+		"/Users/markle976/Downloads/prince-8.0-macosx/install.sh",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/space_detail.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/floor_detail.php",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/project/checklist.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/person/person_list.php",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/project/person.php",
+		"/Users/markle976/Sites/TQ/trunk/application/core/Project_Controller.php",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/account/person.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/person.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/checklist_detail.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/checklist_list.php",
+		"/Users/markle976/Sites/TQ/trunk/application/models/issuecomment_model.php",
+		"/Users/markle976/Sites/TQ/trunk/tests/sql-dumps/1.sql",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/auth.php",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/User/JSON.sublime-settings",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/Tag/Tag Package.sublime-settings",
+		"/Users/markle976/Sites/TQ/trunk/dir.html",
+		"/Users/markle976/Sites/TQ/trunk/application/libraries/History_messages.php",
+		"/Users/markle976/Sites/TQ/trunk/application/models/history_model.php",
+		"/Users/markle976/Sites/TQ/trunk/application/models/issuestatus_model.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/issue/_edit.php",
+		"/Users/markle976/Sites/TQ/trunk/application/models/checklist_model.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/_wall.php",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/User/comment-seperator.sublime-snippet",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/User/php.sublime-build",
+		"/Users/markle976/Sites/TQ/trunk/css/style.css",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/Railscasts.tmTheme",
+		"/Users/markle976/Sites/TQ/trunk/application/models/watch_model.php",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/project/activity.php",
+		"/Users/markle976/Sites/TQ/trunk/system/core/Input.php",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/project/share.php",
+		"/Users/markle976/Sites/TQ/trunk/application/models/discipline_model.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/_share_modal.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/project/issue/_add_modal.php",
+		"/Users/markle976/Sites/TQ/trunk/application/views/profile/_edit.php",
+		"/Users/markle976/Sites/TQ/trunk/application/controllers/profile.php",
+		"/Users/markle976/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/markle976/Sites/TQ/trunk/application",
+			"/Users/markle976/Sites/TQ/trunk/",
+			"/Users/markle976/Sites/TQ/trunk/application/",
+			"/Users/markle976/Sites/TQ/trunk/application/views/",
+			"/Users/markle976/Sites/TQ/trunk/application",
+			"/Users/markle976/Sites/TQ/trunk/application/views",
+			"",
+			"/Users/markle976/Sites/TQ/trunk/application/views/",
+			"/Users/markle976/Sites/TQ/trunk/application/",
+			"/Users/markle976/Sites/TQ/trunk/application/controllers",
+			"/Users/markle976/Sites/TQ/trunk/application/views",
+			"/Users/markle976/Sites/TQ/trunk/application/controllers",
+			"/Users/markle976/Sites/TQ/trunk/application"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			",",
+			" ,",
+			"conn",
+			"_comments",
+			"file_model->insert_record",
+			"insert_record(",
+			"pdf_upload_path",
+			"lang",
+			"Logged in",
+			"logged in",
+			"detail-page",
+			"next",
+			"current",
+			"prev",
+			"$data['query']",
+			"mycho",
+			"start/wel",
+			"access_den",
+			"start",
+			"building",
+			"space_detail",
+			"floor_detail",
+			"hash",
+			"detail_paging",
+			"prince-bookmark",
+			"issue",
+			"break",
+			"item",
+			"_pdf",
+			"prince",
+			"/view",
+			"view",
+			"person/view",
+			"/view",
+			"id=\"issue\"",
+			"id=\\\"issue\\\"",
+			"id=\"issue\"",
+			"wind",
+			"sor",
+			"migra",
+			"details",
+			"get_statuses",
+			"record",
+			"history_rollup_by_time",
+			"json",
+			"_post",
+			"_POST",
+			"_sanitize_globals\n",
+			"_sanitize_globals\n_sanitize_globals",
+			"_clean_input_data",
+			"_fetch_from_array",
+			"get_wa",
+			"dropdown",
+			"		{",
+			"status",
+			"assi",
+			"dis",
+			"update_record",
+			"watch",
+			"serial",
+			"Valid",
+			"is_valid",
+			"isvalid",
+			"serialize",
+			"details",
+			"/details",
+			"details",
+			"fixed-alert",
+			"					}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"detail-fields",
+			"paging['next']",
+			"paging['current']",
+			"paging['prev']",
+			"$query",
+			"fff",
+			"fieldobservation",
+			"item"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/controllers/project/issue.php",
+					"settings":
+					{
+						"buffer_size": 29297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								571,
+								571
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": false,
+								"box-sizing": false,
+								"compatible-vendor-prefixes": false,
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": false,
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"text-indent": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"function_name_status_row": 24,
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 39.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/views/pdf/issue/_item.php",
+					"settings":
+					{
+						"buffer_size": 4283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2970,
+								2970
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": false,
+								"box-sizing": false,
+								"compatible-vendor-prefixes": false,
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": false,
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"text-indent": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"function_name_status_row": 94,
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"my_con",
+				"application/core/MY_Controller.php"
+			],
+			[
+				"_item",
+				"application/views/pdf/issue/_item.php"
+			],
+			[
+				"isslis",
+				"application/views/project/issue/issue_list.php"
+			],
+			[
+				"pdf.c",
+				"css/pdf.css"
+			],
+			[
+				"pdf.",
+				"css/pdf.css"
+			],
+			[
+				"pdf",
+				"css/pdf.css"
+			],
+			[
+				"filter-",
+				"js/jquery.filter-link.js"
+			],
+			[
+				"_list",
+				"application/views/project/issue/_list.php"
+			],
+			[
+				"pdf_it",
+				"application/views/pdf/issue/_item.php"
+			],
+			[
+				"my_",
+				"application/core/MY_Controller.php"
+			],
+			[
+				"iss",
+				"application/controllers/project/issue.php"
+			],
+			[
+				"issmot",
+				"tests/models/IssueModelTest.php"
+			],
+			[
+				"issmo",
+				"application/models/issue_model.php"
+			],
+			[
+				"glob",
+				"js/global.js"
+			],
+			[
+				"sto",
+				"application/libraries/Storage.php"
+			],
+			[
+				"stor",
+				"application/config/storage.php"
+			],
+			[
+				"item",
+				"application/views/pdf/issue/_item.php"
+			],
+			[
+				"my",
+				"application/core/MY_Controller.php"
+			],
+			[
+				"conf",
+				"application/config/config.php"
+			],
+			[
+				"pdfisdet",
+				"application/views/pdf/issue/detail.php"
+			],
+			[
+				"issu",
+				"application/controllers/project/issue.php"
+			],
+			[
+				"filehelp",
+				"application/helpers/MY_file_helper.php"
+			],
+			[
+				"file",
+				"application/controllers/project/file.php"
+			],
+			[
+				"clipdf",
+				"application/controllers/cli/pdf.php"
+			],
+			[
+				"view/iss",
+				"application/views/project/issue/issue_list.php"
+			],
+			[
+				"proj",
+				"application/core/Project_Controller.php"
+			],
+			[
+				"viewpdf",
+				"application/views/project/pdf_view.php"
+			],
+			[
+				"filemo",
+				"application/models/file_model.php"
+			],
+			[
+				".sq",
+				"tests/sql-dumps/7.sql"
+			],
+			[
+				"pdf/_it",
+				"application/views/pdf/issue/_item.php"
+			],
+			[
+				"pdf/_li",
+				"application/views/pdf/issue/_list.php"
+			],
+			[
+				"prince",
+				"application/libraries/prince.php"
+			],
+			[
+				"prin",
+				"application/libraries/prince.php"
+			],
+			[
+				"issdet",
+				"application/views/project/issue/issue_detail.php"
+			],
+			[
+				"_comm",
+				"application/views/project/issue/_comments.php"
+			],
+			[
+				"_view",
+				"application/views/project/issue/_view.php"
+			],
+			[
+				"mycon",
+				"application/core/MY_Controller.php"
+			],
+			[
+				"fiel",
+				"application/views/project/fieldobservation/fieldobservation_detail.php"
+			],
+			[
+				"feil",
+				"application/views/project/fieldobservation/fieldobservation_detail.php"
+			],
+			[
+				"_li",
+				"application/views/project/issue/_list.php"
+			],
+			[
+				"he",
+				"application/views/_headers.php"
+			],
+			[
+				"isli",
+				"application/views/project/issue/issue_list.php"
+			],
+			[
+				"is_vi",
+				"application/views/project/issue/_view.php"
+			],
+			[
+				"is",
+				"application/controllers/project/issue.php"
+			],
+			[
+				"deta",
+				"application/views/project/issue/issue_detail.php"
+			],
+			[
+				"_det",
+				"application/views/project/issue/_detail_paging.php"
+			],
+			[
+				"head",
+				"application/views/_headers.php"
+			],
+			[
+				"pdf.css",
+				"css/pdf.css"
+			],
+			[
+				"_top",
+				"application/views/_top.php"
+			],
+			[
+				"field",
+				"application/controllers/project/fieldobservation.php"
+			],
+			[
+				"less",
+				"css/styles.less"
+			],
+			[
+				"_detail_paging",
+				"application/views/project/issue/_detail_paging.php"
+			],
+			[
+				"list",
+				"application/views/pdf/issue/_list.php"
+			],
+			[
+				"email",
+				"application/config/email.php"
+			],
+			[
+				"iss/_li",
+				"application/views/project/issue/_list.php"
+			],
+			[
+				"cli/",
+				"application/controllers/cli/migrate.php"
+			],
+			[
+				"sty",
+				"css/styles.less"
+			],
+			[
+				"_it",
+				"application/views/project/issue/_item.php"
+			],
+			[
+				"glo",
+				"js/global.js"
+			],
+			[
+				"lib/prin",
+				"application/libraries/prince.php"
+			],
+			[
+				"chec",
+				"application/controllers/project/checklist.php"
+			],
+			[
+				"procon",
+				"application/core/Project_Controller.php"
+			],
+			[
+				"pers",
+				"application/controllers/project/person.php"
+			],
+			[
+				".less",
+				"css/styles.less"
+			],
+			[
+				"mig",
+				"application/controllers/cli/migrate.php"
+			],
+			[
+				".sql",
+				"tests/sql-dumps/1.sql"
+			],
+			[
+				"cont/",
+				"application/controllers/auth.php"
+			],
+			[
+				"_ite",
+				"application/views/project/issue/_item.php"
+			],
+			[
+				"issli",
+				"application/views/project/issue/issue_list.php"
+			],
+			[
+				"isscom",
+				"application/models/issuecomment_model.php"
+			],
+			[
+				"proc",
+				"application/core/Project_Controller.php"
+			],
+			[
+				"_edit",
+				"application/views/project/issue/_edit.php"
+			],
+			[
+				"issumo",
+				"application/models/issue_model.php"
+			],
+			[
+				"issst",
+				"application/models/issuestatus_model.php"
+			],
+			[
+				"_wall",
+				"application/views/_wall.php"
+			],
+			[
+				"inpu",
+				"system/core/Input.php"
+			],
+			[
+				"shar",
+				"application/controllers/project/share.php"
+			],
+			[
+				"watmo",
+				"application/models/watch_model.php"
+			],
+			[
+				"hismo",
+				"application/models/history_model.php"
+			],
+			[
+				"issview",
+				"application/views/project/issue/_view.php"
+			],
+			[
+				"act",
+				"application/controllers/project/activity.php"
+			],
+			[
+				"his",
+				"application/libraries/History_messages.php"
+			],
+			[
+				"my_mo",
+				"application/core/MY_Model.php"
+			],
+			[
+				"disc",
+				"application/models/discipline_model.php"
+			],
+			[
+				"share",
+				"application/controllers/project/share.php"
+			],
+			[
+				"pro/_ed",
+				"application/views/profile/_edit.php"
+			],
+			[
+				"issde",
+				"application/views/project/issue/issue_detail.php"
+			],
+			[
+				"addmo",
+				"application/views/project/issue/_add_modal.php"
+			],
+			[
+				"iss/edi",
+				"application/views/project/issue/_edit.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/markle976/Sites/TQ/trunk/tq.sublime-project"
+			],
+			[
+				"fm",
+				"/Users/markle976/Sites/FM/trunk/fm.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true
+}
